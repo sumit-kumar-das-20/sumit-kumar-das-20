@@ -1,26 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm **Riya Hati**
-### 🚀 Web Developer | JavaScript & React Enthusiast
+# Hi, I’m **Riya Hati** 👋  
+### Web Developer crafting clean, scalable, and meaningful digital experiences
 
-Building scalable, clean, and user-focused web applications with modern technologies.
+I love turning ideas into elegant web applications using modern JavaScript technologies —  
+with a strong focus on clarity, performance, and user experience.
 
-<img src="https://komarev.com/ghpvc/?username=riya-hati&label=Profile%20Views&color=6c63ff&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=riya-hati&label=Profile%20Views&color=6c63ff&style=flat" />
 
 </div>
 
 ---
 
-## ✨ About Me
+## 🌿 About Me
 
-- 🌱 Currently diving deeper into **Backend Development**
-- 💬 Ask me about **JavaScript, React, Next.js**
+I’m a passionate **Web Developer** who enjoys building things that feel simple on the surface  
+but are thoughtfully engineered underneath.
+
+- 🌱 Currently expanding my skills in **Backend Development**
+- 🧠 Strong foundation in **JavaScript, React, and modern frontend architecture**
+- 💬 Happy to talk about **JavaScript, React, Next.js, and web fundamentals**
 - 📫 Reach me at **riyahati01@gmail.com**
-- ⚡ Fun fact: *I write code so clean, even bugs wave hello.*
+- ⚡ Fun fact: *I believe clean code is a form of respect — for users and future developers.*
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/riya-hati-747bb01a0/" target="_blank">
@@ -30,56 +35,54 @@ Building scalable, clean, and user-focused web applications with modern technolo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
 
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,sass" />
-</p>
+I enjoy working across the stack, choosing tools that best fit the problem.
 
-### ⚙️ Backend & Databases
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,php" />
-</p>
+**Frontend**
+- HTML, CSS, JavaScript  
+- React, Next.js, Tailwind CSS, Redux  
 
-### 🧰 Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,linux,heroku" />
-</p>
+**Backend & Databases**
+- Node.js, Express.js  
+- MongoDB, MySQL, PostgreSQL, Redis  
+
+**Tools & Platforms**
+- Git & GitHub  
+- Docker, Postman  
+- Figma, Linux, Heroku  
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-<p align="left">
+<p>
 <img src="https://github-profile-trophy.vercel.app/?username=riya-hati&theme=onedark&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riya-hati&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-hati&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
-## 🌟 What I Care About
+## 💭 What Drives Me
 
-- Clean & maintainable code  
-- Performance & accessibility  
-- Real-world problem solving  
-- Continuous learning & improvement  
+- Writing code that is easy to read, test, and maintain  
+- Building interfaces that feel intuitive and human  
+- Learning continuously and improving a little every day  
+- Solving real problems, not just shipping features  
 
 ---
 
 <div align="center">
 
-### 💙 *Thanks for visiting my profile!*
-*Let’s build something amazing together.*
+✨ *Thanks for stopping by.*  
+If you like clean code and thoughtful design, we’ll get along well.
 
 </div>
